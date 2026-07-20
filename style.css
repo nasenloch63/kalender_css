@@ -10,12 +10,17 @@ body {
  h1 {
     color: black;
     font-weight: 800;
- }
- h2 {color: gray;
+}
+ h2 {
+    color: gray;
      font-weight: 800;
     }
 .container {
     max-width: 160px;
     margin: 0 auto;
     padding: 60px 30px;
+}
+table {
+    border-collapse: seperate;
+    border-spacing: 6px;
 }
