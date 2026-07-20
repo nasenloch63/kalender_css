@@ -1,11 +1,12 @@
 body {
     font-family: "Nexa Text", sans-serif; 
-    background-color: darkgray;
+    background-color: lightgray;
+    color: "darkgrey"; 
 }
  h1 {
-    color: blue;
+    color: black;
     font-weight: 800;
  }
- h2 {color: blue;
+ h2 {color: gray;
      font-weight: 800;
     }
