@@ -1,8 +1,8 @@
 body {
-    font-family: "Nexa Text", sans-serif;
-    font-weight: 800; 
+    font-family: "Nexa Text", sans-serif; 
     background-color: lightgray;
 }
  h1 {
-    color: blue; 
+    color: blue;
+    font-weight: 800;
  }
