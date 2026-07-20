@@ -1,6 +1,10 @@
 
+.container {
+    max-width: 110px;
+    margin: 0 auto;
+    padding: 60px 30px;
 
-title { font-family:'Times New Roman', Sans, serif}
+
 body {
     font-family: Inter, Arial, Helvetica, sans-serif;
     background-color: lightgray;
@@ -13,3 +17,4 @@ body {
  h2 {color: gray;
      font-weight: 800;
     }
+}
