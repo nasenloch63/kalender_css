@@ -3,9 +3,10 @@
 
 
 body {
+    margin: 0;
     font-family: Inter, Arial, Helvetica, sans-serif;
-    background-color: lightgray;
-    color: "darkgrey"; 
+    background-color: #f7f7f5;
+    color: #333333; 
 }
  h1 {
     color: black;
@@ -18,7 +19,10 @@ body {
 .container {
     max-width: 160px;
     margin: 0 auto;
-    padding: 60px 60px;
+    padding: 24px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    border-radius: 20px;
 }
 table {
     border-collapse: seperate;
