@@ -53,3 +53,9 @@ th {
     border-color: #1a1a1a;
     font-weight: 700;
 }
+td:not(.today):hover {
+    background-color: #eeeeee;
+    border-color: #bdbdbd;
+    transform: translateY(-2px);
+    cursor: pointer; 
+}
