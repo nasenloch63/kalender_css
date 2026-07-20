@@ -24,3 +24,11 @@ table {
     border-collapse: seperate;
     border-spacing: 6px;
 }
+
+th, 
+td {
+    border: 1px solid black;
+    width: 42px;
+    height: 42px;
+    text-align: center;
+}
