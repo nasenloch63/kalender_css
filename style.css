@@ -31,5 +31,6 @@ td {
     width: 42px;
     height: 42px;
     text-align: center;
-    padding-left: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
 }
