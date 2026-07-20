@@ -1,6 +1,6 @@
 body {
     font-family: "Nexa Text", sans-serif; 
-    background-color: lightgray;
+    background-color: darkgray;
 }
  h1 {
     color: blue;
@@ -9,4 +9,3 @@ body {
  h2 {color: blue;
      font-weight: 800;
     }
-    
