@@ -17,8 +17,8 @@ body {
      font-weight: 800;
     }
 .container {
-    max-width: 160px;
-    margin: 0 auto;
+    width: fit-content;
+    margin: 70px auto;
     padding: 24px;
     background-color: white;
     border: 1px solid #dddddd;
