@@ -31,12 +31,14 @@ table {
 
 th, 
 td {
-    border: 1px solid #e2e2e2;
-    border-radius: 8px;
     width: 42px;
+    min-width: 42px;
     height: 42px;
     text-align: center;
     padding: 0;
+    box-sizing: border-box;
+    border: 1px solide #e2e2e2;
+    border-radius: 8px;
 }
 td {
     background-color: #fafafa;
