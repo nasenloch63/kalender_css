@@ -47,3 +47,9 @@ td {
 th {
     background-color: #f1f1f1;
 }
+.today {
+    background-color: #1a1a1a;
+    color: #1a1a1a;
+    border-color: #1a1a1a;
+    font-weight: 700;
+}
